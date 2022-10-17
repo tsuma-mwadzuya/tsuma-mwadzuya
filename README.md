@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp4748478.jpg)
+
 <h1 align="center">Hi 👋, I'm Tsuma Mwadzuya</h1>
 <h3 align="center">Data analyst from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
